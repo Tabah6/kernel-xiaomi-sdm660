@@ -1,10 +1,10 @@
 #!/bin/bash
 
-export KERNELNAME=Moonlight
+export KERNELNAME=Gerimis
 
-export LOCALVERSION=Arashi-v2.3-TEST
+export LOCALVERSION=Caf
 
-export KBUILD_BUILD_USER=Six
+export KBUILD_BUILD_USER=Roman.Picisan
 
 export KBUILD_BUILD_HOST=server
 
@@ -12,9 +12,9 @@ export TOOLCHAIN=clang
 
 export DEVICES=whyred,tulip,lavender,a26x
 
-export CI_ID=-1001463706805
+export CI_ID=-1001211283062
 
-export GROUP_ID=-1001401101008
+export GROUP_ID=-1001420838318
 
 source helper
 
