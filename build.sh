@@ -6,7 +6,7 @@ export LOCALVERSION=Caf
 
 export KBUILD_BUILD_USER=Roman.Picisan
 
-export KBUILD_BUILD_HOST=server
+export KBUILD_BUILD_HOST=.
 
 export TOOLCHAIN=clang
 
